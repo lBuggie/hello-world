@@ -1,2 +1,3 @@
 # hello-world
-Description here
+
+Learning git and GitHub here
